@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379357790018-186al9ff0kr6va08bmsl89d885nsoqoe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379357790018-186al9ff0kr6va08bmsl89d885nsoqoe</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>379357790018-5fibgonpqoj8r9jiqekrmjniqv2k6846.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoFpOPxhVWRGsktP2Hp5QtIUI6I0ZAcoQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379357790018</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ShineSchedule.com</string>
+	<key>PROJECT_ID</key>
+	<string>shineschedule-7b085</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shineschedule-7b085.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379357790018:ios:a36448b6aba3b39180d2db</string>
+</dict>
+</plist>
